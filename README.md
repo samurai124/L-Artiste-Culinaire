@@ -5,13 +5,16 @@ A modern, beautifully designed web application for discovering and managing culi
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/home.png" alt="Home Page" width="800"/>
+    <img width="1837" height="878" alt="Capture d&#39;écran 2026-03-10 122233" src="https://github.com/user-attachments/assets/e6f30893-3f59-44a9-97a6-a9bc89d31c8c" />
+
   <br/>
   <br/>
-  <img src="screenshots/recipes.png" alt="Recipes Listing" width="800"/>
+ <img width="1847" height="952" alt="recipe" src="https://github.com/user-attachments/assets/d87299b3-c179-42d7-be59-76b619e46a5e" />
+
   <br/>
   <br/>
-  <img src="screenshots/recipe_detail.png" alt="Recipe Details" width="800"/>
+ <img width="604" height="842" alt="Capture d&#39;écran 2026-03-10 122317" src="https://github.com/user-attachments/assets/7cc3f66f-c096-4108-840f-87dd767335d6" />
+
 </div>
 
 ## ✨ Features
